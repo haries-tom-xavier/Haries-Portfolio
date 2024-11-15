@@ -2,7 +2,7 @@
 var navbar = document.querySelector("nav");
 function handleScroll() // Function to handle scroll events
 {
-  if (window.scrollY > 150) // Change 50 to your desired scroll threshold 
+  if (window.scrollY > 890) // Change 50 to your desired scroll threshold 
   { 
     navbar.classList.add("scrolled"); // Add class when scrolled
   } 

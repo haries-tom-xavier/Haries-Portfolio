@@ -24,7 +24,7 @@ html
 body
 {
   background: #1a1030;
-  color: #fdfdfd;
+  color: #6e9fe3;
   overflow-x: hidden;
 }
 /* Header */
@@ -32,7 +32,7 @@ body
 {
   width: 100%;
   height: 110vh;
-  background-image: url(./images/hero_horizontal-resized.webp);
+  background-image: url(./images/main_page.jpg);
   background-size:cover;
   background-attachment: fixed;
   background-position: center;
@@ -65,7 +65,7 @@ nav ul li
 nav ul li a
 {
   text-decoration: none;
-  color: #ffffff;
+  color: #6e9fe3;
   font-size: 16px;
   position: relative;
   font-family: 'sans-b';
@@ -106,6 +106,7 @@ nav ul li a:hover::after
   font-size: 15px;
   margin-top: 30px;
   line-height: 1.7;
+  color: #ffffff;
 }
 .header-text h1
 {
@@ -165,6 +166,7 @@ nav ul li a:hover::after
   cursor: pointer;
   position: relative;
   font-family: 'sans-b';
+  color: #ffffff;
 }
 .about-subtabs-links::after
 {
@@ -193,7 +195,7 @@ nav ul li a:hover::after
 }
 .about-subtabs-contents ul li span
 {
-  color: #2f4d77;
+  color: #ffffff;
   font-size: 20px;
 }
 .about-subtabs-contents ul li p
@@ -511,7 +513,7 @@ form input, form textarea
   border: 0;
   border-radius: 30px;
   outline: none;
-  background: #262626;
+  background: #2c1d4b;
   padding: 15px;
   margin: 15px 0;
   color: #ffffff;
@@ -519,7 +521,7 @@ form input, form textarea
 }
 form input::placeholder, form textarea::placeholder
 {
-  color: #8b8b8b;
+  color: #ab7b7b;
 }
 form .btn2
 {
@@ -590,7 +592,7 @@ hr
 }
 #message
 {
-  color: #c48954;
+  color: #ccd5e3;
   margin-top: -10px;
   display: block;
 }
