@@ -1,12 +1,12 @@
 @font-face 
 {
   font-family: 'sans-r';
-  src: url(./font/ProductSansRegular.ttf);
+  src: url(./font/Poppins-Regular.ttf);
 }
 @font-face 
 {
   font-family: 'sans-b';
-  src: url(./font/ProductSansBold.ttf);
+  src: url(./font/Poppins-Bold.ttf);
 }
 /* General settings */
 *
