@@ -32,7 +32,7 @@ body
 {
   width: 100%;
   height: 110vh;
-  background-image: url(./images/main_page.jpg);
+  background-image: url(./images/main_page.webp);
   background-size:cover;
   background-attachment: fixed;
   background-position: center;
@@ -643,7 +643,7 @@ nav .fa-solid /*.fa-xmark, nav .fa-bars */
   }
   #header
   {
-    background-image: url(./images/Vertical\ Main\ Page.png);
+    background-image: url(./images/Vertical\ Main\ Page.webp);
     background-size: cover;
     height: 100vh;
   }
@@ -793,7 +793,7 @@ nav .fa-solid /*.fa-xmark, nav .fa-bars */
 {
   #header
   {
-    background-image: url(./images/Vertical\ Main\ Page.png);
+    background-image: url(./images/Vertical\ Main\ Page.webp);
     background-size: cover;
     height: 100vh;
   }
@@ -876,7 +876,7 @@ nav .fa-solid /*.fa-xmark, nav .fa-bars */
 {
   #header
   {
-    background-image: url(./images/Almost\ Square\ Main\ Page.png);
+    background-image: url(./images/Almost\ Square\ Main\ Page.webp);
     background-size: cover;
     height: 100vh;
   }
@@ -999,7 +999,7 @@ nav .fa-solid /*.fa-xmark, nav .fa-bars */
 {
   #header
   {
-    background-image: url(./images/Almost\ Recctangle\ Main\ Page.png);
+    background-image: url(./images/Almost\ Recctangle\ Main\ Page.webp);
     background-size: cover;
     height: 100vh;
   }
