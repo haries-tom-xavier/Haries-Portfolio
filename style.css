@@ -453,7 +453,7 @@ nav ul li a:hover::after
   text-decoration: none;
   color: #ffffff;
 }
-.fa-envelope, .fa-phone, .fa-globe
+.fa-envelope, .fa-phone, .fa-globe, .fa-calendar-plus
 {
   font-size: 13px;
   width: 25px;
@@ -464,7 +464,7 @@ nav ul li a:hover::after
   color: #080808;
   background-color: #33537f;
 }
-.fa-globe:hover, .fa-envelope:hover, .fa-phone:hover
+.fa-globe:hover, .fa-envelope:hover, .fa-phone:hover, .fa-calendar-plus:hover
 {
   color: #ffffff;
 }
