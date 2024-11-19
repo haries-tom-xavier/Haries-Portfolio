@@ -395,6 +395,11 @@ nav ul li a:hover::after
 {
   font-weight: 500;
   margin-bottom: 20px;
+  color: #ffffff;
+}
+.layer p
+{
+  color: #ffffff;
 }
 .layer a
 {
