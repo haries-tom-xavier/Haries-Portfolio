@@ -299,6 +299,15 @@ nav ul li a:hover::after
   align-items: center;
   color: #941996;
 }
+#FashionDesign
+{
+  font-size: 70px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #941996;
+}
 .services-list div h2
 {
   font-size: 30px;
@@ -332,7 +341,7 @@ nav ul li a:hover::after
 .services-list div:hover
 {
   background: #480174;
-  transform: translateY(-10px)
+  transform: translateY(-10px);
 }
 .services-list div:hover a
 {
